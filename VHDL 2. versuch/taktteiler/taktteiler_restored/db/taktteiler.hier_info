@@ -1,0 +1,27 @@
+|taktteiler
+clk => x[0].CLK
+clk => x[1].CLK
+clk => x[2].CLK
+clk => x[3].CLK
+clk => x[4].CLK
+clk => x[5].CLK
+clk => x[6].CLK
+clk => x[7].CLK
+clk => x[8].CLK
+clk => x[9].CLK
+clk => x[10].CLK
+clk => x[11].CLK
+clk => x[12].CLK
+clk => x[13].CLK
+clk => x[14].CLK
+clk => x[15].CLK
+clk => x[16].CLK
+clk => x[17].CLK
+clk => x[18].CLK
+clk => x[19].CLK
+clk => x[20].CLK
+clk => x[21].CLK
+clk => tmp.CLK
+clk_10Hz <= tmp.DB_MAX_OUTPUT_PORT_TYPE
+
+

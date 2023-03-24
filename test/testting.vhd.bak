@@ -1,0 +1,14 @@
+entity testing is
+
+port
+(	input_1 : in std_logic_vector (7 downto 0):
+	input_2 : in std_logic_vector (7 downto 0);
+	output  : out std_logic_vector (7 downto 0)
+);
+end testing;
+
+architecture arch of testing is
+begin
+output<= input_1 and input_2;
+end arch;
+		

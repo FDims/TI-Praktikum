@@ -1,0 +1,18 @@
+Fitter Status : Successful - Sun Nov 28 20:08:03 2021
+Quartus Prime Version : 20.1.1 Build 720 11/11/2020 SJ Lite Edition
+Revision Name : sieben_segment
+Top-level Entity Name : sieben_segment
+Family : MAX 10
+Device : 10M02DCU324C8G
+Timing Models : Final
+Total logic elements : 8 / 2,304 ( < 1 % )
+    Total combinational functions : 8 / 2,304 ( < 1 % )
+    Dedicated logic registers : 0 / 2,304 ( 0 % )
+Total registers : 0
+Total pins : 11 / 160 ( 7 % )
+Total virtual pins : 0
+Total memory bits : 0 / 110,592 ( 0 % )
+Embedded Multiplier 9-bit elements : 0 / 32 ( 0 % )
+Total PLLs : 0 / 2 ( 0 % )
+UFM blocks : 0 / 1 ( 0 % )
+ADC blocks : 0

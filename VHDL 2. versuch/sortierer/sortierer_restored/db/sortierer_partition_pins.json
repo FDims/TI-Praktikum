@@ -1,0 +1,41 @@
+{
+	"partitions" : [
+		{
+			"name" : "Top",
+			"pins" : [
+				{
+					"name" : "oe_n_out",
+					"strict" : false
+				},
+				{
+					"name" : "weiche_out",
+					"strict" : false
+				},
+				{
+					"name" : "motor_pwr_out",
+					"strict" : false
+				},
+				{
+					"name" : "oe_in",
+					"strict" : false
+				},
+				{
+					"name" : "ind_sens",
+					"strict" : false
+				},
+				{
+					"name" : "reset",
+					"strict" : false
+				},
+				{
+					"name" : "clk",
+					"strict" : false
+				},
+				{
+					"name" : "opt_sens",
+					"strict" : false
+				}
+			]
+		}
+	]
+}
